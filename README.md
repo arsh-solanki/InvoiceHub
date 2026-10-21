@@ -206,17 +206,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Author
-
-Your Name / Your GitHub Profile
-
-## 📞 Contact
-
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
-
-## 🙏 Acknowledgments
-
-- Microsoft .NET documentation
-- ASP.NET Core best practices
-- Repository Pattern implementation guide
+ARSH
